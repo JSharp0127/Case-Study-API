@@ -1,3 +1,12 @@
+"""
+AuthorL John Sharp
+
+File: application.py
+
+Description: API for GET/PUSH/DELETE request on a custom database for books
+
+"""
+
 from flask import Flask, request
 from flask_sqlalchemy import SQLAlchemy
 
