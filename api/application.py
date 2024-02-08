@@ -1,5 +1,5 @@
 """
-AuthorL John Sharp
+Author: John Sharp
 
 File: application.py
 
